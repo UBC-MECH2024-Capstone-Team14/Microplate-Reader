@@ -4,3 +4,9 @@
 [submodule "Microplate-Reader-Firmware"]
 	path = Microplate-Reader-Firmware
 	url = https://github.com/UBC-MECH2024-Capstone-Team14/Microplate-Reader-Firmware
+[submodule "Microplate-Reader-Hardware"]
+	path = Microplate-Reader-Hardware
+	url = https://github.com/UBC-MECH2024-Capstone-Team14/Microplate-Reader-Hardware.git
+[submodule "Microplate-Reader-Mechanical"]
+	path = Microplate-Reader-Mechanical
+	url = https://github.com/UBC-MECH2024-Capstone-Team14/Microplate-Reader-Mechanical.git
